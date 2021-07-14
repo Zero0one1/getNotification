@@ -1,2 +1,2 @@
 # getNotification
-monitor the android notification bar
+A simple Android application to monitor the android notification bar.
